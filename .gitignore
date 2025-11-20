@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.DS_Store
+
+# Envs
+.env
+env/
+venv/
+.venv/
+robotics_env/
+
+# Logs / outputs
+outputs/
+logs/
+*.log
+
+# Rerun logs
+rerun/
+
+# Vision logs
+ai_assistant/data/vision_logs/
+
+# Node/http server cache
+.cache/
