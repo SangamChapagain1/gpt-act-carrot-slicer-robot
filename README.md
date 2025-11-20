@@ -1,8 +1,5 @@
 # GPT-ACT Carrot Slicer (SO101 Demo)
 
-[![Discord](https://img.shields.io/badge/Discord-Join%20GPT--ACT-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/JEJPc5V4Kj)
-[![Follow on X](https://img.shields.io/badge/Follow-@sangam__chapagai-000000?style=flat&logo=x&logoColor=white)](https://x.com/sangam_chapagai)
-
 A complete, runnable example of a modular VLAM system where a realtime VLM (GPT) plans and three ACT skills execute on a physical SO101 robot: pick-and-place, slice with a tool, and transfer sliced pieces.
 
 ## Overview
@@ -15,6 +12,9 @@ pick-and-place, use slicer, and transfer slices. It is meant as a complete carro
 
 ![Robot setup](assets/Carrot_Slicer_Robot_Setup.png)
 ![Top camera view](assets/Top_Camera_View.png)
+
+[![Discord](https://img.shields.io/badge/Discord-Join%20GPT--ACT-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/JEJPc5V4Kj)
+[![Follow on X](https://img.shields.io/badge/Follow-@sangam__chapagai-000000?style=flat&logo=x&logoColor=white)](https://x.com/sangam_chapagai)
 
 ## Before you start
 - **Have SO-101 + LeRobot working first**: follow the official LeRobot docs to assemble, wire, and teleoperate the arm.
