@@ -6,6 +6,8 @@ A complete, runnable example of a modular VLAM system where a realtime VLM (GPT)
 - **Short demo (2 min)**: [Autonomous Carrot Slicer Robot using GPT ACT VLA System](https://youtu.be/2TAfNOfgM9k)
 - **Full run (8.5 min)**: [GPT ACT on an autonomous carrot slicer robot (8 min demo)](https://youtu.be/ARiFkiiq41E)
 
+<video src="assets/timelapse_carrot_slicer.mp4" controls loop muted playsinline style="max-width: 100%; border-radius: 8px;"></video>
+
 This repo extends LeRobot with a GPT-powered voice assistant that can run three ACT skills in sequence:
 pick-and-place, use slicer, and transfer slices. It is meant as a complete carrot-slicing demo on a real SO-101.
 
