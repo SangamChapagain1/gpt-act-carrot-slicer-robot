@@ -1,12 +1,14 @@
 # GPT-ACT Carrot Slicer (SO101 Demo)
+
+[![Discord](https://img.shields.io/badge/Discord-Join%20GPT--ACT-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/JEJPc5V4Kj)
+[![Follow on X](https://img.shields.io/badge/Follow-@sangam__chapagai-000000?style=flat&logo=x&logoColor=white)](https://x.com/sangam_chapagai)
+
 A complete, runnable example of a modular VLAM system where a realtime VLM (GPT) plans and three ACT skills execute on a physical SO101 robot: pick-and-place, slice with a tool, and transfer sliced pieces.
 
 ## Overview
 ## Demo videos
 - **Short demo (2 min)**: [Autonomous Carrot Slicer Robot using GPT ACT VLA System](https://youtu.be/2TAfNOfgM9k)
 - **Full run (8.5 min)**: [GPT ACT on an autonomous carrot slicer robot (8 min demo)](https://youtu.be/ARiFkiiq41E)
-
-<video src="assets/timelapse_carrot_slicer.mp4" controls loop muted playsinline style="max-width: 100%; border-radius: 8px;"></video>
 
 This repo extends LeRobot with a GPT-powered voice assistant that can run three ACT skills in sequence:
 pick-and-place, use slicer, and transfer slices. It is meant as a complete carrot-slicing demo on a real SO-101.
